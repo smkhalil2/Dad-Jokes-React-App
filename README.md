@@ -1,4 +1,5 @@
 # Dad-Jokes-React-App
+A web page that fetches ten unique, top quality dad jokes at a time from an api when the user clicks the button and displays them in an interactive list. Jokes are sorted by popularity and stored in localStorage. Users can upvote or downvote jokes. Popularity is reflected by the color and emoji displayed on the joke.
 
 TLDR - To run, open project in terminal with `cd dad-jokes` and start application with `npm start`. May need to install npm and npx. 
 
